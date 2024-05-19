@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2k17<br>🔭  I'm currently working on MERN Stack<br>📚 I'm currently learning System Design<br>🎯 Goals: Open Source Contributor</p>
+<p align="left">✨ Creating bugs since 2k17<br>🔭  I'm currently working on MERN Stack<br>📚 I'm currently learning System Design<br></p>
 
 ###
 
